@@ -22,8 +22,8 @@ This mode can be easily triggered by a radio button named "Advance".
 This mode doesn't check txt files alphabetically. Rather it checks and chooses words based out of his letters.  
 This mode has **TWO** sepperated files for his algorithm. One is for letter rank and the other is for word rank.
 For example, I want a word that has **r** and **t** in it. When he found all candidates for an answer, he will proceed to  
-give a word with most common letters there. He gives me an answer: **retie**  
-*He gave me that because the word contains e's, the most common english letter.*  
+give a word with most common letters there. He gives me an answer: **tarea**  
+*He gave me that because the word contains a's, the most common (in a 5-letter word) english letter.*  
 Besides r and t, which need to be there, he found most common word out of common letters.  
 You can find more on [letters_rank](https://github.com/KnifeEater/Wordle-solver/blob/main/WORDLE%20SOLVER/bin/Debug/letters_rank.txt) and word_rank!  
 
