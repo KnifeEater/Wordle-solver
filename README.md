@@ -25,7 +25,7 @@ For example, I want a word that has **r** and **t** in it. When he found all can
 give a word with most common letters there. He gives me an answer: **tarea**  
 *He gave me that because the word contains a's, the most common (in a 5-letter word) english letter.*  
 Besides r and t, which need to be there, he found most common word out of common letters.  
-You can find more on [letters_rank](https://github.com/KnifeEater/Wordle-solver/blob/main/WORDLE%20SOLVER/bin/Debug/letters_rank.txt) and word_rank!  
+You can find more on [letters_rank](https://github.com/KnifeEater/Wordle-solver/blob/main/WORDLE%20SOLVER/bin/Debug/letters_rank.txt) and [word_rank](https://github.com/KnifeEater/Wordle-solver/blob/main/WORDLE%20SOLVER/bin/Debug/words_rank.txt)!  
 
 
 *Few other settings:*  
