@@ -42,7 +42,7 @@ For instance, in previous example we searched for word with r and t.
   
 **SOURCES:**
 Finally, without a word libary, this code wouldn't be here.  
-Please, check xxxxxxxxx out if you are interested in projects like these!  
+Please, check out [dwyl](https://github.com/dwyl) if you are interested in projects like these!  
   
   
 **Please enjoy my code, and thank you for reading this!**
